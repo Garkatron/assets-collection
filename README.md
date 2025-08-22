@@ -1,4 +1,4 @@
-# assets-collection
+# Assets Collection
 
 # Ilustrations
 - https://undraw.co
