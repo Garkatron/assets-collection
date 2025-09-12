@@ -5,6 +5,7 @@
 - https://www.opendoodles.com
 - https://www.manypixels.co/gallery
 - https://iradesign.io
+- https://svgl.app/?ref=dailydev
 
 # Images
 - https://www.freepik.es
