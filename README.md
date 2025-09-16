@@ -1,5 +1,8 @@
 # Assets Collection
 
+More collections:
+- https://freesets.dev
+
 # Ilustrations
 - https://undraw.co
 - https://www.opendoodles.com
