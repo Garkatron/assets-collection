@@ -3,6 +3,9 @@
 More collections:
 - https://freesets.dev
 
+# Tools
+* [Markdown Presentations](https://sli.dev)
+
 # Ilustrations
 - https://undraw.co
 - https://www.opendoodles.com
