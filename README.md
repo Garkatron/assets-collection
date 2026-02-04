@@ -6,6 +6,9 @@ More collections:
 # Tools
 * [Markdown Presentations](https://sli.dev)
 
+# Web Dev
+* [World Maps / Maps / Api](https://mapcn.vercel.app/docs/installation)
+
 # Ilustrations
 - https://undraw.co
 - https://www.opendoodles.com
