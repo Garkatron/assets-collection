@@ -5,6 +5,7 @@ More collections:
 
 # Tools
 * [Markdown Presentations](https://sli.dev)
+* [Keyboard & Mouse svg generator](https://key.pics/)
 
 # Ilustrations
 - https://undraw.co
